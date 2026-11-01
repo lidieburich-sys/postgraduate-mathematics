@@ -1,0 +1,27 @@
+{
+  "pdf_count": 103,
+  "chapter_pairs": 50,
+  "total_pages": 578,
+  "max_pdf_bytes": 13372061,
+  "total_pdf_bytes": 81638441,
+  "source_coverage": {
+    "questions": {
+      "source_pages": 217,
+      "output_pages": 217,
+      "each_original_page_present_exactly_once": true,
+      "all_page_content_and_image_data_match": true
+    },
+    "basic": {
+      "source_pages": 181,
+      "output_pages": 181,
+      "each_original_page_present_exactly_once": true,
+      "all_page_content_and_image_data_match": true
+    },
+    "advanced": {
+      "source_pages": 180,
+      "output_pages": 180,
+      "each_original_page_present_exactly_once": true,
+      "all_page_content_and_image_data_match": true
+    }
+  }
+}

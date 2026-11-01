@@ -1,0 +1,23 @@
+[
+  {
+    "id": "questions",
+    "filename": "2027接力题典1800基础篇+强化篇-数一【题目册】.pdf",
+    "pages": 217,
+    "bytes": 29998561,
+    "sha256": "f7eecb5599d58e0df128dcbcab5fd42bf9ab6a68f6c27b9513d6cf9d650a7863"
+  },
+  {
+    "id": "basic",
+    "filename": "基础2027-1800数一【解析册】.pdf",
+    "pages": 181,
+    "bytes": 21136538,
+    "sha256": "77657df8f63a10f805d2ac18f79224c4270b29a92bbdb1a8877207d1a224ae30"
+  },
+  {
+    "id": "advanced",
+    "filename": "强化2027-1800-数一【解析册】.pdf",
+    "pages": 180,
+    "bytes": 21382093,
+    "sha256": "8b44fe33d8ed88bf61b1675f69f67ed564f97e2bad6c3e36a9640b0656e73c5a"
+  }
+]
