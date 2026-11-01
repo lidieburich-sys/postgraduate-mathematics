@@ -1,0 +1,389 @@
+[
+  {
+    "path": "27张宇数学公式手册.pdf",
+    "source": "27张宇数学公式手册.pdf",
+    "title": "27张宇数学公式手册",
+    "source_pdf_pages": [
+      1,
+      190
+    ],
+    "printed_pages": null,
+    "pages": 190,
+    "unchanged_original": true,
+    "bytes": 18734720,
+    "sha256": "6ee2bddcfc643e99d0e0017158456bdc8eaef90aef154ed37dde363319b86ea1",
+    "git_blob_sha": "ca04a46d12540fb5d1d87e24f139e82a1fd956bb"
+  },
+  {
+    "path": "27张宇零基础通关讲义.pdf",
+    "source": "27张宇零基础通关讲义.pdf",
+    "title": "27张宇零基础通关讲义",
+    "source_pdf_pages": [
+      1,
+      52
+    ],
+    "printed_pages": null,
+    "pages": 52,
+    "unchanged_original": true,
+    "bytes": 55766825,
+    "sha256": "c64d636505d0353ee03c9c39622709896f7064ee31863f175b9861ceaef5349d",
+    "git_blob_sha": "059eab516f282030f2dcd91358f8217738f67788"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/00_封面前言目录.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "封面、前言与目录",
+    "source_pdf_pages": [
+      1,
+      6
+    ],
+    "printed_pages": null,
+    "pages": 6,
+    "unchanged_original": false,
+    "bytes": 2830175,
+    "sha256": "96a3829c3e648d49fe53e69cc78941d08592ab80b44570df78536683f360c979",
+    "git_blob_sha": "87d5f599270c2a22b2c69cb03387d8ebddbeec7d"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/01_函数极限与连续.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第1讲 函数极限与连续",
+    "source_pdf_pages": [
+      7,
+      81
+    ],
+    "printed_pages": [
+      1,
+      75
+    ],
+    "pages": 75,
+    "unchanged_original": false,
+    "bytes": 55164516,
+    "sha256": "c678958bed739485500d8dcdb7ec3783e764d0ad3686e375c330709b9d0034de",
+    "git_blob_sha": "4c84a7f11edf9d9271e119794b2b6d5a9a9d62d9"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/02_数列极限.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第2讲 数列极限",
+    "source_pdf_pages": [
+      82,
+      104
+    ],
+    "printed_pages": [
+      76,
+      98
+    ],
+    "pages": 23,
+    "unchanged_original": false,
+    "bytes": 18924805,
+    "sha256": "f7269875f23d0ef1d750b73df251fced6d5049a5fe0a4cbbb77e947d6a5e1514",
+    "git_blob_sha": "c5f961be640df4330b4b737db6d11a64eed17d37"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/03_一元函数微分学的概念.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第3讲 一元函数微分学的概念",
+    "source_pdf_pages": [
+      105,
+      124
+    ],
+    "printed_pages": [
+      99,
+      118
+    ],
+    "pages": 20,
+    "unchanged_original": false,
+    "bytes": 15706172,
+    "sha256": "91b4b52d3b64fd764e9daf9532abd97130f8dde63486e3833abb2bd83cd06055",
+    "git_blob_sha": "6571ed0d0fdf9bbcd5fea70497a2e40d59472c5e"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/04_一元函数微分学的计算.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第4讲 一元函数微分学的计算",
+    "source_pdf_pages": [
+      125,
+      144
+    ],
+    "printed_pages": [
+      119,
+      138
+    ],
+    "pages": 20,
+    "unchanged_original": false,
+    "bytes": 10203239,
+    "sha256": "abaa0a33b6d7ab3c1c79f9eb425fbdfcf929ddfa1f730565f16bf8ab9022dbf3",
+    "git_blob_sha": "048d4494f1a7879caf76bc75f04b270415b1340a"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/05_一元函数微分学的应用（一）-几何应用.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第5讲 一元函数微分学的应用（一）-几何应用",
+    "source_pdf_pages": [
+      145,
+      169
+    ],
+    "printed_pages": [
+      139,
+      163
+    ],
+    "pages": 25,
+    "unchanged_original": false,
+    "bytes": 19933516,
+    "sha256": "423baeeab4dab49c1778ceb04cdee981c003ec1f8eb041560d68f892179fbe7d",
+    "git_blob_sha": "797844026c4f795b5a29ddc9ad15fa13062fa8d4"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/06_一元函数微分学的应用（二）-中值定理、微分等式与微分不等式.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第6讲 一元函数微分学的应用（二）-中值定理、微分等式与微分不等式",
+    "source_pdf_pages": [
+      170,
+      191
+    ],
+    "printed_pages": [
+      164,
+      185
+    ],
+    "pages": 22,
+    "unchanged_original": false,
+    "bytes": 15173394,
+    "sha256": "474f2dd8e994e76f5bb9f34ebfb2350567751847e15154dddf1334cc45d4d959",
+    "git_blob_sha": "2262f643184e08c067d4041edb7764551776661c"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/07_一元函数微分学的应用（三）-物理应用与经济应用.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第7讲 一元函数微分学的应用（三）-物理应用与经济应用",
+    "source_pdf_pages": [
+      192,
+      200
+    ],
+    "printed_pages": [
+      186,
+      194
+    ],
+    "pages": 9,
+    "unchanged_original": false,
+    "bytes": 4392972,
+    "sha256": "238ac9ad51f1ef273c0d9d08af127cb7311c9b20e7a677bdb2ec285863107cbe",
+    "git_blob_sha": "d8d9b8091412dbeb1930b662578fbd5ca2cd6ff4"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/08_一元函数积分学的概念与性质.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第8讲 一元函数积分学的概念与性质",
+    "source_pdf_pages": [
+      201,
+      235
+    ],
+    "printed_pages": [
+      195,
+      229
+    ],
+    "pages": 35,
+    "unchanged_original": false,
+    "bytes": 28005785,
+    "sha256": "d92061bb2fe4b887622903d0dae18ddfc83859618cf2903a9cc4a17af57c8c96",
+    "git_blob_sha": "6b8095112015d27677a9463db79ce3f3e2fc3506"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/09_一元函数积分学的计算.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第9讲 一元函数积分学的计算",
+    "source_pdf_pages": [
+      236,
+      268
+    ],
+    "printed_pages": [
+      230,
+      262
+    ],
+    "pages": 33,
+    "unchanged_original": false,
+    "bytes": 19315428,
+    "sha256": "f10affc96aa2a2d61d4ace80f5eec87fe4b3fc965f8a67af77da248cf8421c75",
+    "git_blob_sha": "8a37c7f670c2bb8bf87a835f4cd9b60be3e560d0"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/10_一元函数积分学的应用（一）-几何应用.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第10讲 一元函数积分学的应用（一）-几何应用",
+    "source_pdf_pages": [
+      269,
+      287
+    ],
+    "printed_pages": [
+      263,
+      281
+    ],
+    "pages": 19,
+    "unchanged_original": false,
+    "bytes": 9508517,
+    "sha256": "9939491cf22bb46a6602892b30d173c0d6684bb8b53954d6de1b7b3fee98f245",
+    "git_blob_sha": "f221a71bf10bb86c1f0fd7d2c2fa41808e8c55d7"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/11_一元函数积分学的应用（二）-积分等式与积分不等式.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第11讲 一元函数积分学的应用（二）-积分等式与积分不等式",
+    "source_pdf_pages": [
+      288,
+      299
+    ],
+    "printed_pages": [
+      282,
+      293
+    ],
+    "pages": 12,
+    "unchanged_original": false,
+    "bytes": 5521264,
+    "sha256": "55c3634d394fed0be61abaff5510baa5ca1fbcccac29769cba0bdfb625f0aab6",
+    "git_blob_sha": "b43dfacf955c8b0b0b688e5996939ee2490c904e"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/12_一元函数积分学的应用（三）-物理应用与经济应用.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第12讲 一元函数积分学的应用（三）-物理应用与经济应用",
+    "source_pdf_pages": [
+      300,
+      309
+    ],
+    "printed_pages": [
+      294,
+      303
+    ],
+    "pages": 10,
+    "unchanged_original": false,
+    "bytes": 4187973,
+    "sha256": "271a5edfd97782c39dbd07d468e1f9b8028fb6a2db70c1c6de24aa528be3aa78",
+    "git_blob_sha": "c7fe34ffa556d4a0daece0c281dddbab53db5014"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/13_多元函数微分学.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第13讲 多元函数微分学",
+    "source_pdf_pages": [
+      310,
+      343
+    ],
+    "printed_pages": [
+      304,
+      337
+    ],
+    "pages": 34,
+    "unchanged_original": false,
+    "bytes": 19828898,
+    "sha256": "a935c9702444a7f98beb151642171a45754f35da676e0fdf29354fe7fa0d3fd0",
+    "git_blob_sha": "3a61e5db00abe30d73db3f4d6b9086b11f663e5d"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/14_二重积分.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第14讲 二重积分",
+    "source_pdf_pages": [
+      344,
+      382
+    ],
+    "printed_pages": [
+      338,
+      376
+    ],
+    "pages": 39,
+    "unchanged_original": false,
+    "bytes": 18428457,
+    "sha256": "278af0c625fbcb3e91bb1338f9093e35092fd96cfd496915ed299caadcb8fb89",
+    "git_blob_sha": "aff95ad6bce9ab62cc6ca8afc3d03e3be96b39f5"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/15_微分方程.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第15讲 微分方程",
+    "source_pdf_pages": [
+      383,
+      414
+    ],
+    "printed_pages": [
+      377,
+      408
+    ],
+    "pages": 32,
+    "unchanged_original": false,
+    "bytes": 21062960,
+    "sha256": "7547fd3ce02197440f5ea5fa764e6154e381ab232e42233468dbf17654fab2ea",
+    "git_blob_sha": "91ba21c3d1729c36372a5de4c78316201364a4c4"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/16_无穷级数（仅数学一、数学三）.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第16讲 无穷级数（仅数学一、数学三）",
+    "source_pdf_pages": [
+      415,
+      469
+    ],
+    "printed_pages": [
+      409,
+      463
+    ],
+    "pages": 55,
+    "unchanged_original": false,
+    "bytes": 38697605,
+    "sha256": "4c37956a1ac473025563e91907530d2c9e6c6adbd00db3ac725ca0e66463e53f",
+    "git_blob_sha": "436292b9fe75320df156f167db27359d290316af"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/17_多元函数积分学的预备知识（仅数学一）.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第17讲 多元函数积分学的预备知识（仅数学一）",
+    "source_pdf_pages": [
+      470,
+      493
+    ],
+    "printed_pages": [
+      464,
+      487
+    ],
+    "pages": 24,
+    "unchanged_original": false,
+    "bytes": 11489855,
+    "sha256": "ceb0140f97bd3130a958b18dd4293a592cc7d1bcc416cedd65e1bfd7e095d635",
+    "git_blob_sha": "4dc50ff076ac65efc25d7082f1874c6ce80ea656"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/18_多元函数积分学（仅数学一）.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "第18讲 多元函数积分学（仅数学一）",
+    "source_pdf_pages": [
+      494,
+      551
+    ],
+    "printed_pages": [
+      488,
+      545
+    ],
+    "pages": 58,
+    "unchanged_original": false,
+    "bytes": 38285946,
+    "sha256": "0f763910e08664e8552d6b9b7fed9ef10f243839fb11a0b6668816dd7f72aa13",
+    "git_blob_sha": "90fbeafbfc81f005dcb12d196c5cb4dea3a2dbbc"
+  },
+  {
+    "path": "27张宇基础30讲（高数）/19_附录与书末资料.pdf",
+    "source": "27张宇基础30讲（高数）.pdf",
+    "title": "附录与书末资料",
+    "source_pdf_pages": [
+      552,
+      586
+    ],
+    "printed_pages": [
+      546,
+      578
+    ],
+    "pages": 35,
+    "unchanged_original": false,
+    "bytes": 15144209,
+    "sha256": "a083f95340671241a027e0fb4ecbd2f1b6b7edf419bcff37519df5515d018b98",
+    "git_blob_sha": "2235d3b113069d2245345a089bdb3f33027a2699"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "filename": "27张宇数学公式手册.pdf",
+    "page_count": 190,
+    "bytes": 18734720,
+    "sha256": "6ee2bddcfc643e99d0e0017158456bdc8eaef90aef154ed37dde363319b86ea1",
+    "git_blob_sha": "ca04a46d12540fb5d1d87e24f139e82a1fd956bb"
+  },
+  {
+    "filename": "27张宇零基础通关讲义.pdf",
+    "page_count": 52,
+    "bytes": 55766825,
+    "sha256": "c64d636505d0353ee03c9c39622709896f7064ee31863f175b9861ceaef5349d",
+    "git_blob_sha": "059eab516f282030f2dcd91358f8217738f67788"
+  },
+  {
+    "filename": "27张宇基础30讲（高数）.pdf",
+    "page_count": 586,
+    "bytes": 370341773,
+    "sha256": "1b17f5628e03dc24bdc870a8f8155b07d9e18cba7d15cbc983cf0b08375c9a37",
+    "git_blob_sha": "3ca1850402f22fc3f89f9aa5baefec36b06277fc"
+  }
+]

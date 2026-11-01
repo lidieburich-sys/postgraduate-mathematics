@@ -1,0 +1,15 @@
+{
+  "source_books": 3,
+  "pdf_count": 22,
+  "total_pages": 828,
+  "split_pdf_count": 20,
+  "split_source_pages": 586,
+  "all_split_page_content_and_resource_hashes_match": true,
+  "no_missing_or_duplicated_source_pages": true,
+  "unchanged_original_count": 2,
+  "unchanged_original_sha256_match": true,
+  "bookmarks_valid": true,
+  "rendered_page_pairs": 40,
+  "all_rendered_pixels_identical": true,
+  "visual_inspection": "pass"
+}
