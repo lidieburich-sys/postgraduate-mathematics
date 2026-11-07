@@ -1,0 +1,382 @@
+{
+  "source_checks": [
+    {
+      "source": "27张宇1000题数一【试题册】.pdf",
+      "source_pages": 195,
+      "output_pages": 195,
+      "coverage_exactly_once": true,
+      "missing_pages": [],
+      "duplicate_pages": {},
+      "all_page_content_and_image_streams_match": true,
+      "all_page_boxes_and_rotation_match": true
+    },
+    {
+      "source": "27张宇1000题数一【解析册】.pdf",
+      "source_pages": 568,
+      "output_pages": 568,
+      "coverage_exactly_once": true,
+      "missing_pages": [],
+      "duplicate_pages": {},
+      "all_page_content_and_image_streams_match": true,
+      "all_page_boxes_and_rotation_match": true
+    }
+  ],
+  "output_pdf_count": 151,
+  "chapter_pairs": 71,
+  "source_page_total": 763,
+  "output_bytes": 202641581,
+  "largest_file_bytes": 5493465,
+  "visual_verification": {
+    "status": "passed",
+    "sample_count": 45,
+    "all_sample_rasters_identical_to_original": true,
+    "samples": [
+      {
+        "path": "01_基础篇/01_高等数学/00_零基础_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 9,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/01_高等数学/00_零基础_题目.pdf",
+        "local_page": 2,
+        "source_pdf_page": 10,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/02_线性代数/01_行列式_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 51,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/02_线性代数/01_行列式_题目.pdf",
+        "local_page": 2,
+        "source_pdf_page": 52,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/03_概率论与数理统计/01_随机事件与概率_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 69,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/03_概率论与数理统计/01_随机事件与概率_题目.pdf",
+        "local_page": 2,
+        "source_pdf_page": 70,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/01_高等数学/01_函数极限与连续_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 84,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/01_高等数学/01_函数极限与连续_题目.pdf",
+        "local_page": 4,
+        "source_pdf_page": 87,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/02_线性代数/01_行列式_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 138,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/02_线性代数/01_行列式_题目.pdf",
+        "local_page": 2,
+        "source_pdf_page": 139,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/03_概率论与数理统计/01_随机事件和概率_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 159,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/01_测试卷一_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 180,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/01_测试卷一_题目.pdf",
+        "local_page": 4,
+        "source_pdf_page": 183,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/01_高等数学/00_零基础_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 9,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/01_高等数学/00_零基础_解析.pdf",
+        "local_page": 5,
+        "source_pdf_page": 13,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/02_线性代数/01_行列式_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 128,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/02_线性代数/01_行列式_解析.pdf",
+        "local_page": 5,
+        "source_pdf_page": 132,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/03_概率论与数理统计/01_随机事件与概率_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 179,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_基础篇/03_概率论与数理统计/01_随机事件与概率_解析.pdf",
+        "local_page": 4,
+        "source_pdf_page": 182,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/01_高等数学/01_函数极限与连续_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 217,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/01_高等数学/01_函数极限与连续_解析.pdf",
+        "local_page": 12,
+        "source_pdf_page": 228,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/02_线性代数/01_行列式_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 395,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/02_线性代数/01_行列式_解析.pdf",
+        "local_page": 5,
+        "source_pdf_page": 399,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/03_概率论与数理统计/01_随机事件和概率_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 458,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_强化篇/03_概率论与数理统计/01_随机事件和概率_解析.pdf",
+        "local_page": 3,
+        "source_pdf_page": 460,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/01_测试卷一_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 523,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/01_测试卷一_解析.pdf",
+        "local_page": 10,
+        "source_pdf_page": 532,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/04_测试卷四_题目.pdf",
+        "local_page": 1,
+        "source_pdf_page": 192,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/04_测试卷四_题目.pdf",
+        "local_page": 3,
+        "source_pdf_page": 194,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/04_测试卷四_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 558,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_综合篇/04_测试卷四_解析.pdf",
+        "local_page": 10,
+        "source_pdf_page": 567,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/试题册_封面、出版信息、前言、目录与基础篇扉页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 1,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/试题册_封面、出版信息、前言、目录与基础篇扉页.pdf",
+        "local_page": 8,
+        "source_pdf_page": 8,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/试题册_强化篇扉页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 83,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/试题册_综合篇扉页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 179,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/试题册_封底与书系介绍.pdf",
+        "local_page": 1,
+        "source_pdf_page": 195,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_封面版权与目录.pdf",
+        "local_page": 1,
+        "source_pdf_page": 1,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_封面版权与目录.pdf",
+        "local_page": 6,
+        "source_pdf_page": 6,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_基础篇扉页与空白页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 7,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_基础篇扉页与空白页.pdf",
+        "local_page": 2,
+        "source_pdf_page": 8,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_强化篇扉页与空白页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 215,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_强化篇扉页与空白页.pdf",
+        "local_page": 2,
+        "source_pdf_page": 216,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_综合篇扉页与空白页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 521,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_综合篇扉页与空白页.pdf",
+        "local_page": 2,
+        "source_pdf_page": 522,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与扉页/解析册_书末空白附页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 568,
+        "raster_pixels_identical": true
+      }
+    ],
+    "contact_sheet_reviewed": true
+  },
+  "all_page_labels_verified": true,
+  "all_readme_links_verified": true,
+  "chapter_starts_visually_checked": 142,
+  "question_bookmark_corrections": [
+    {
+      "stage": "基础篇",
+      "subject": "高等数学",
+      "chapter_number": 5,
+      "bookmark_pdf_page": 17,
+      "verified_pdf_start": 18,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "基础篇",
+      "subject": "高等数学",
+      "chapter_number": 10,
+      "bookmark_pdf_page": 30,
+      "verified_pdf_start": 31,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "基础篇",
+      "subject": "高等数学",
+      "chapter_number": 12,
+      "bookmark_pdf_page": 34,
+      "verified_pdf_start": 35,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "基础篇",
+      "subject": "线性代数",
+      "chapter_number": 4,
+      "bookmark_pdf_page": 58,
+      "verified_pdf_start": 59,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "基础篇",
+      "subject": "概率论与数理统计",
+      "chapter_number": 2,
+      "bookmark_pdf_page": 70,
+      "verified_pdf_start": 71,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "基础篇",
+      "subject": "概率论与数理统计",
+      "chapter_number": 3,
+      "bookmark_pdf_page": 72,
+      "verified_pdf_start": 73,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "强化篇",
+      "subject": "高等数学",
+      "chapter_number": 12,
+      "bookmark_pdf_page": 112,
+      "verified_pdf_start": 113,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    },
+    {
+      "stage": "强化篇",
+      "subject": "高等数学",
+      "chapter_number": 17,
+      "bookmark_pdf_page": 131,
+      "verified_pdf_start": 132,
+      "evidence": "目录书内页码及前后页渲染均确认书签落在上一章最后一页"
+    }
+  ],
+  "question_page_number_observations": [
+    "基础篇最后题页为原PDF82、书内76，原PDF83为强化篇扉页，原PDF84开始书内79。",
+    "强化篇最后题页为原PDF178、书内173，原PDF179为综合篇扉页，原PDF180开始书内177。",
+    "测试卷四在原PDF192-194、书内189-191，原PDF195为封底；第22题在书内191页完整结束。",
+    "章节交界附近部分书内页码未出现在扫描中，未核实纸书对应页是否空白；不人为补页，不把封底归入测试卷四。"
+  ]
+}
