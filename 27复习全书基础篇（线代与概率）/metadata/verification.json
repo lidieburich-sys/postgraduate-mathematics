@@ -1,0 +1,63 @@
+{
+  "source_books": 4,
+  "source_pages": 567,
+  "pdf_count": 49,
+  "output_pages": 574,
+  "all_source_pages_preserved": true,
+  "unexpected_duplicates": false,
+  "all_page_content_resource_annotation_geometry_hashes_match": true,
+  "bookmarks_and_page_labels_valid": true,
+  "source_coverage": [
+    {
+      "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+      "source_pages": 172,
+      "output_pages": 172,
+      "all_source_pages_preserved": true,
+      "intentional_shared_pages": {},
+      "all_content_resources_annotations_geometry_match": true
+    },
+    {
+      "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+      "source_pages": 132,
+      "output_pages": 136,
+      "all_source_pages_preserved": true,
+      "intentional_shared_pages": {
+        "81": 2,
+        "100": 2,
+        "109": 2,
+        "119": 2
+      },
+      "all_content_resources_annotations_geometry_match": true
+    },
+    {
+      "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+      "source_pages": 155,
+      "output_pages": 155,
+      "all_source_pages_preserved": true,
+      "intentional_shared_pages": {},
+      "all_content_resources_annotations_geometry_match": true
+    },
+    {
+      "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+      "source_pages": 108,
+      "output_pages": 111,
+      "all_source_pages_preserved": true,
+      "intentional_shared_pages": {
+        "99": 2,
+        "101": 2,
+        "103": 2
+      },
+      "all_content_resources_annotations_geometry_match": true
+    }
+  ],
+  "render_verification": {
+    "dpi": 60,
+    "source_output_page_pairs": 95,
+    "all_pixels_identical": true,
+    "visual_inspection": "passed",
+    "output_first_pages_inspected": 49,
+    "scope": "Every output first/last page rendered against original; all 49 output first pages visually inspected."
+  },
+  "original_sha256_values_unchanged": true,
+  "all_bookmark_destinations_match_chapter_map": true
+}

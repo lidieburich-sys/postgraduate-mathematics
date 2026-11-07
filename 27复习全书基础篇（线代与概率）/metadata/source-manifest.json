@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "kind": "学习册",
+    "page_count": 172,
+    "bytes": 85498457,
+    "sha256": "69b2428104bdefaa592cefdbdf98722ab2620bbb2d8d93575b08a157def31297",
+    "git_blob_sha": "e81fd1015678045414010b2a45d4665c5ba10337"
+  },
+  {
+    "filename": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "kind": "严选题",
+    "page_count": 132,
+    "bytes": 59610316,
+    "sha256": "89bb41bb24a2bdcf8c837ae2c2745fef2618c6985e7bdd27056d3500de391de8",
+    "git_blob_sha": "1d18660a082d3ab93b98702b63578dbe963819ab"
+  },
+  {
+    "filename": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "kind": "学习册",
+    "page_count": 155,
+    "bytes": 89729132,
+    "sha256": "be88af5e9d973ad2632d13e6ca4157edbf4621ee8f7bcc1e89d38baf04277593",
+    "git_blob_sha": "4cc4d558925a02dff80a99eb99358d44026d412b"
+  },
+  {
+    "filename": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "kind": "严选题",
+    "page_count": 108,
+    "bytes": 43621745,
+    "sha256": "4aa26df243054ae8c78e28c0528108cab60bcf5ee932e58d0946a417a41c3362",
+    "git_blob_sha": "5bfa0e66faa2c2423fd819a860916480b48f6f6b"
+  }
+]

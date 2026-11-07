@@ -1,0 +1,1426 @@
+[
+  {
+    "title": "封面、前言、使用说明与目录",
+    "printed_start": null,
+    "printed_end": null,
+    "kind": "front_matter",
+    "bookmarks": [],
+    "path": "01_线性代数/01_学习册/00_学习册_封面前言使用说明与目录.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      1,
+      16
+    ],
+    "pages": 16,
+    "bytes": 13020825,
+    "sha256": "f37c3e9957403d4f8d5f17e8445c340dc7ac8463ca5ca436fb4fc5fa56415353",
+    "git_blob_sha": "b7f037f03a3a9e50c99a3932a08db703eb7357d5"
+  },
+  {
+    "title": "第一章 行列式",
+    "printed_start": 1,
+    "printed_end": 21,
+    "kind": "study",
+    "chapter": 1,
+    "sub_bookmarks": [
+      {
+        "title": "例题解析",
+        "pdf_page": 29,
+        "printed_page": 13
+      }
+    ],
+    "chapter_title": "行列式",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 29
+      }
+    ],
+    "path": "01_线性代数/01_学习册/01_行列式_学习册.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      17,
+      37
+    ],
+    "pages": 21,
+    "bytes": 10080697,
+    "sha256": "080d880e4cd45f55e0fc36b0288999ed4208f73bb73fe6d1dd7ea3dcfe0534e1",
+    "git_blob_sha": "14b95b65dd0fc6e8d54322cdaa73fc1ef831e60e"
+  },
+  {
+    "title": "第二章 矩阵",
+    "printed_start": 22,
+    "printed_end": 54,
+    "kind": "study",
+    "chapter": 2,
+    "sub_bookmarks": [
+      {
+        "title": "例题解析",
+        "pdf_page": 61,
+        "printed_page": 45
+      }
+    ],
+    "chapter_title": "矩阵",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 61
+      }
+    ],
+    "path": "01_线性代数/01_学习册/02_矩阵_学习册.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      38,
+      70
+    ],
+    "pages": 33,
+    "bytes": 14595795,
+    "sha256": "c96be8b264655b84793ca2df4951f41c6d6f5cf7bb48e869f1244eea75120c57",
+    "git_blob_sha": "787dbffb3d4dc613487b3ce87fc705d2addef26e"
+  },
+  {
+    "title": "第三章 向量",
+    "printed_start": 55,
+    "printed_end": 83,
+    "kind": "study",
+    "chapter": 3,
+    "sub_bookmarks": [
+      {
+        "title": "例题解析",
+        "pdf_page": 89,
+        "printed_page": 73
+      }
+    ],
+    "chapter_title": "向量",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 89
+      }
+    ],
+    "path": "01_线性代数/01_学习册/03_向量_学习册.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      71,
+      99
+    ],
+    "pages": 29,
+    "bytes": 13912178,
+    "sha256": "aedc46c38fcd9e2922b1dac19dd40a19f4b0b4cd82708db61681b6a37ad0bae5",
+    "git_blob_sha": "5c236dfbbd003c4a99fe8c698d477712db0a6379"
+  },
+  {
+    "title": "第四章 线性方程组",
+    "printed_start": 84,
+    "printed_end": 104,
+    "kind": "study",
+    "chapter": 4,
+    "sub_bookmarks": [
+      {
+        "title": "例题解析",
+        "pdf_page": 112,
+        "printed_page": 96
+      }
+    ],
+    "chapter_title": "线性方程组",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 112
+      }
+    ],
+    "path": "01_线性代数/01_学习册/04_线性方程组_学习册.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      100,
+      120
+    ],
+    "pages": 21,
+    "bytes": 9541236,
+    "sha256": "ffcad679972434e5a59fe2d5e3e319f23e7c0b9c0b9186c1ddd769564d379026",
+    "git_blob_sha": "c9208431f9f6299942804944a53a9ecb11520912"
+  },
+  {
+    "title": "第五章 特征值和特征向量",
+    "printed_start": 105,
+    "printed_end": 129,
+    "kind": "study",
+    "chapter": 5,
+    "sub_bookmarks": [
+      {
+        "title": "例题解析",
+        "pdf_page": 136,
+        "printed_page": 120
+      }
+    ],
+    "chapter_title": "特征值和特征向量",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 136
+      }
+    ],
+    "path": "01_线性代数/01_学习册/05_特征值和特征向量_学习册.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      121,
+      145
+    ],
+    "pages": 25,
+    "bytes": 11980485,
+    "sha256": "fdb0c02404d2cea1b4c53b4dfc85737dda603f75891bdb3324ba4e0382d556a8",
+    "git_blob_sha": "022352e222668a8db856dad3fc3f81211bc89a4f"
+  },
+  {
+    "title": "第六章 二次型",
+    "printed_start": 130,
+    "printed_end": 154,
+    "kind": "study",
+    "chapter": 6,
+    "sub_bookmarks": [
+      {
+        "title": "例题解析",
+        "pdf_page": 159,
+        "printed_page": 143
+      }
+    ],
+    "chapter_title": "二次型",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 159
+      }
+    ],
+    "path": "01_线性代数/01_学习册/06_二次型_学习册.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      146,
+      170
+    ],
+    "pages": 25,
+    "bytes": 11215618,
+    "sha256": "574e0cb503c7bac68c8490452ae1ae1d86fef816ed8070b0cc4f0ca1f6216e34",
+    "git_blob_sha": "f53d1942a83f7522c5dca597085543f63fd3cf46"
+  },
+  {
+    "title": "书系介绍与封底",
+    "printed_start": null,
+    "printed_end": null,
+    "kind": "back_matter",
+    "bookmarks": [],
+    "path": "01_线性代数/01_学习册/99_学习册_书系介绍与封底.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代学习册》.pdf",
+    "subject": "线性代数",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      171,
+      172
+    ],
+    "pages": 2,
+    "bytes": 1931476,
+    "sha256": "b99a4dfa668043d17719cd366d5971ac8c8d1b3bcdb7981d705a47440fd4417c",
+    "git_blob_sha": "1f927e372e1d6c1af7c7006a50048f56039f8b19"
+  },
+  {
+    "title": "封面、扉页与目录",
+    "printed_start": null,
+    "printed_end": null,
+    "kind": "front_matter",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/00_严选题_封面扉页与目录.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      1,
+      6
+    ],
+    "pages": 6,
+    "bytes": 4003122,
+    "sha256": "7e810c3733b08ca56a67bc36217fbc0541ee06a954e29cc2c64d0d052d935982",
+    "git_blob_sha": "ed07a059b7badd51601cc6fc6c0e7d0851bfd35f"
+  },
+  {
+    "title": "第一章 行列式 - 例题优选与自测练习题",
+    "printed_start": 1,
+    "printed_end": 8,
+    "kind": "questions",
+    "chapter": 1,
+    "sub_bookmarks": [
+      {
+        "title": "例题优选",
+        "pdf_page": 7,
+        "printed_page": 1
+      },
+      {
+        "title": "自测练习题",
+        "pdf_page": 10,
+        "printed_page": 4
+      }
+    ],
+    "chapter_title": "行列式",
+    "bookmarks": [
+      {
+        "title": "例题优选",
+        "page": 7
+      },
+      {
+        "title": "自测练习题",
+        "page": 10
+      }
+    ],
+    "path": "01_线性代数/02_严选题/01_行列式_严选题.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      7,
+      14
+    ],
+    "pages": 8,
+    "bytes": 2563005,
+    "sha256": "d658762dfebab7bdf238adddc53f665f75607a16f78771d4f1e3134129af2779",
+    "git_blob_sha": "7e033fc33c7abdd11933ae276ca0c6900a3685bd"
+  },
+  {
+    "title": "第二章 矩阵 - 例题优选与自测练习题",
+    "printed_start": 9,
+    "printed_end": 23,
+    "kind": "questions",
+    "chapter": 2,
+    "sub_bookmarks": [
+      {
+        "title": "例题优选",
+        "pdf_page": 15,
+        "printed_page": 9
+      },
+      {
+        "title": "自测练习题",
+        "pdf_page": 22,
+        "printed_page": 16
+      }
+    ],
+    "chapter_title": "矩阵",
+    "bookmarks": [
+      {
+        "title": "例题优选",
+        "page": 15
+      },
+      {
+        "title": "自测练习题",
+        "page": 22
+      }
+    ],
+    "path": "01_线性代数/02_严选题/02_矩阵_严选题.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      15,
+      29
+    ],
+    "pages": 15,
+    "bytes": 4951869,
+    "sha256": "6082e87b5ff6fc9aa2f17f0673f5ccc840d832a180e48491e39205844c68d796",
+    "git_blob_sha": "0c4e7bc393b95445091f57b7ed445d4be04ee004"
+  },
+  {
+    "title": "第三章 向量 - 例题优选与自测练习题",
+    "printed_start": 24,
+    "printed_end": 36,
+    "kind": "questions",
+    "chapter": 3,
+    "sub_bookmarks": [
+      {
+        "title": "例题优选",
+        "pdf_page": 30,
+        "printed_page": 24
+      },
+      {
+        "title": "自测练习题",
+        "pdf_page": 35,
+        "printed_page": 29
+      }
+    ],
+    "chapter_title": "向量",
+    "bookmarks": [
+      {
+        "title": "例题优选",
+        "page": 30
+      },
+      {
+        "title": "自测练习题",
+        "page": 35
+      }
+    ],
+    "path": "01_线性代数/02_严选题/03_向量_严选题.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      30,
+      42
+    ],
+    "pages": 13,
+    "bytes": 5228429,
+    "sha256": "876e9693b95b43e69c7f7f97a5823778340c1e1112a11ef9fd0ffb4e6dbc9d9f",
+    "git_blob_sha": "ed765320c4500a6b89c024c4bc052f6c9e4abd40"
+  },
+  {
+    "title": "第四章 线性方程组 - 例题优选与自测练习题",
+    "printed_start": 37,
+    "printed_end": 49,
+    "kind": "questions",
+    "chapter": 4,
+    "sub_bookmarks": [
+      {
+        "title": "例题优选",
+        "pdf_page": 43,
+        "printed_page": 37
+      },
+      {
+        "title": "自测练习题",
+        "pdf_page": 47,
+        "printed_page": 41
+      }
+    ],
+    "chapter_title": "线性方程组",
+    "bookmarks": [
+      {
+        "title": "例题优选",
+        "page": 43
+      },
+      {
+        "title": "自测练习题",
+        "page": 47
+      }
+    ],
+    "path": "01_线性代数/02_严选题/04_线性方程组_严选题.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      43,
+      55
+    ],
+    "pages": 13,
+    "bytes": 4687486,
+    "sha256": "7b9c67f015ebbe938df46eeaac563a0f6b4fa77d606c0ae1a0926198d72249cc",
+    "git_blob_sha": "15155c78abd11d4615345147c2ab7fb0f7c1da43"
+  },
+  {
+    "title": "第五章 特征值和特征向量 - 例题优选与自测练习题",
+    "printed_start": 50,
+    "printed_end": 62,
+    "kind": "questions",
+    "chapter": 5,
+    "sub_bookmarks": [
+      {
+        "title": "例题优选",
+        "pdf_page": 56,
+        "printed_page": 50
+      },
+      {
+        "title": "自测练习题",
+        "pdf_page": 61,
+        "printed_page": 55
+      }
+    ],
+    "chapter_title": "特征值和特征向量",
+    "bookmarks": [
+      {
+        "title": "例题优选",
+        "page": 56
+      },
+      {
+        "title": "自测练习题",
+        "page": 61
+      }
+    ],
+    "path": "01_线性代数/02_严选题/05_特征值和特征向量_严选题.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      56,
+      68
+    ],
+    "pages": 13,
+    "bytes": 4980127,
+    "sha256": "d2e825abb8f02bd175ca4cdc0fd0eeb12fb6b4f8a3c388db24caccbe42042751",
+    "git_blob_sha": "c381a5292d2c3adb00b18c10b64376ca3507cf12"
+  },
+  {
+    "title": "第六章 二次型 - 例题优选与自测练习题",
+    "printed_start": 63,
+    "printed_end": 71,
+    "kind": "questions",
+    "chapter": 6,
+    "sub_bookmarks": [
+      {
+        "title": "例题优选",
+        "pdf_page": 69,
+        "printed_page": 63
+      },
+      {
+        "title": "自测练习题",
+        "pdf_page": 74,
+        "printed_page": 68
+      }
+    ],
+    "chapter_title": "二次型",
+    "bookmarks": [
+      {
+        "title": "例题优选",
+        "page": 69
+      },
+      {
+        "title": "自测练习题",
+        "page": 74
+      }
+    ],
+    "path": "01_线性代数/02_严选题/06_二次型_严选题.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      69,
+      77
+    ],
+    "pages": 9,
+    "bytes": 3088158,
+    "sha256": "f9fa385b7979c296f1ed7f9491abca77ad943b1fb20097223fc54185a604717d",
+    "git_blob_sha": "60d84b8763ec3c7d81cf0f97f4297f06f673aedb"
+  },
+  {
+    "title": "第一章 行列式 - 自测练习题参考答案",
+    "printed_start": 72,
+    "printed_end": 75,
+    "kind": "answers",
+    "chapter": 1,
+    "shared_source_pages": [
+      81
+    ],
+    "intentional_overlap_reason": "相邻章节答案在同一原扫描页衔接；有意重复完整边界页以保证每章答案完整，不裁切原页。",
+    "chapter_title": "行列式",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/01_行列式_自测答案.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      78,
+      81
+    ],
+    "pages": 4,
+    "bytes": 2081988,
+    "sha256": "77c0719a39e6a491ae54b1ff172526d1eed44171af5e3007c70f42c3f1c4e8c1",
+    "git_blob_sha": "0c61536e61e2aeb22f546ba7e6d8bce888285d86"
+  },
+  {
+    "title": "第二章 矩阵 - 自测练习题参考答案",
+    "printed_start": 75,
+    "printed_end": 83,
+    "kind": "answers",
+    "chapter": 2,
+    "shared_source_pages": [
+      81
+    ],
+    "intentional_overlap_reason": "相邻章节答案在同一原扫描页衔接；有意重复完整边界页以保证每章答案完整，不裁切原页。",
+    "chapter_title": "矩阵",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/02_矩阵_自测答案.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      81,
+      89
+    ],
+    "pages": 9,
+    "bytes": 4210467,
+    "sha256": "0d066e30171d1dec19cff8389a803c7e96dd64ee08856d4002f0609b24b9f81d",
+    "git_blob_sha": "418c7328743ba7b18bc9ecf5dcfdd42db0757a5b"
+  },
+  {
+    "title": "第三章 向量 - 自测练习题参考答案",
+    "printed_start": 84,
+    "printed_end": 94,
+    "kind": "answers",
+    "chapter": 3,
+    "shared_source_pages": [
+      100
+    ],
+    "intentional_overlap_reason": "相邻章节答案在同一原扫描页衔接；有意重复完整边界页以保证每章答案完整，不裁切原页。",
+    "chapter_title": "向量",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/03_向量_自测答案.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      90,
+      100
+    ],
+    "pages": 11,
+    "bytes": 6939306,
+    "sha256": "200726742e269bc0bb479ea8d5f87861165190d81b319a615f80cf0777e87417",
+    "git_blob_sha": "a8b20eceb6621929fb04981f9cc238ae63f79ced"
+  },
+  {
+    "title": "第四章 线性方程组 - 自测练习题参考答案",
+    "printed_start": 94,
+    "printed_end": 103,
+    "kind": "answers",
+    "chapter": 4,
+    "shared_source_pages": [
+      100,
+      109
+    ],
+    "intentional_overlap_reason": "相邻章节答案在同一原扫描页衔接；有意重复完整边界页以保证每章答案完整，不裁切原页。",
+    "chapter_title": "线性方程组",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/04_线性方程组_自测答案.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      100,
+      109
+    ],
+    "pages": 10,
+    "bytes": 5628720,
+    "sha256": "060077ec05b4f37d46c20e7181e103cce9a8abee72370bbaaafc464685908b4d",
+    "git_blob_sha": "6b5e4bf54607044c2a71028fb5b46b94e368ae61"
+  },
+  {
+    "title": "第五章 特征值和特征向量 - 自测练习题参考答案",
+    "printed_start": 103,
+    "printed_end": 113,
+    "kind": "answers",
+    "chapter": 5,
+    "shared_source_pages": [
+      109,
+      119
+    ],
+    "intentional_overlap_reason": "相邻章节答案在同一原扫描页衔接；有意重复完整边界页以保证每章答案完整，不裁切原页。",
+    "chapter_title": "特征值和特征向量",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/05_特征值和特征向量_自测答案.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      109,
+      119
+    ],
+    "pages": 11,
+    "bytes": 5665947,
+    "sha256": "94202273ac87605af41c696874486d76ca7a78396bcc8eb4ef10f09edc1eb941",
+    "git_blob_sha": "46ff67ed974f4a4faea7246bd54988ecaeec4f5f"
+  },
+  {
+    "title": "第六章 二次型 - 自测练习题参考答案",
+    "printed_start": 113,
+    "printed_end": 122,
+    "kind": "answers",
+    "chapter": 6,
+    "shared_source_pages": [
+      119
+    ],
+    "intentional_overlap_reason": "相邻章节答案在同一原扫描页衔接；有意重复完整边界页以保证每章答案完整，不裁切原页。",
+    "chapter_title": "二次型",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/06_二次型_自测答案.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      119,
+      128
+    ],
+    "pages": 10,
+    "bytes": 4747149,
+    "sha256": "1ec6676040c852fa9275b7219a524c935fea8641dbca427eb852042482c26026",
+    "git_blob_sha": "7b11fb5a36542c3bbcb1f34e05ab873ec712f739"
+  },
+  {
+    "title": "图书书目、书系介绍与封底",
+    "printed_start": null,
+    "printed_end": null,
+    "kind": "back_matter",
+    "bookmarks": [],
+    "path": "01_线性代数/02_严选题/99_严选题_图书书目书系介绍与封底.pdf",
+    "source": "27考研数学李永乐《复习全书基础篇-线代严选题》.pdf",
+    "subject": "线性代数",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      129,
+      132
+    ],
+    "pages": 4,
+    "bytes": 4161670,
+    "sha256": "572b8e7f6899cb2456aff360a33b3483b3a71115baa463518d4ca5cd8fa2772e",
+    "git_blob_sha": "962632848637513311b9d2c235461217335faaff"
+  },
+  {
+    "title": "封面、前言、使用说明与目录",
+    "printed_start": null,
+    "printed_end": null,
+    "notes": "源 PDF 1—4 为封面、广告、扉页、二维码；5—10 为前言（I—VI）；11—14 为使用说明等（1—4）；15—17 为目录（1—3）。",
+    "kind": "front_matter",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/01_学习册/00_封面前言使用说明与目录.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      1,
+      17
+    ],
+    "pages": 17,
+    "bytes": 13991547,
+    "sha256": "6ae2a33c16f2e222c9ea26f009d816abf6da24aef093e5db2279fafd1d3ebb08",
+    "git_blob_sha": "5de617b4d4b5fd1d6f49287bce33cd9b9d8c5177"
+  },
+  {
+    "title": "第一章 随机事件和概率",
+    "printed_start": 1,
+    "printed_end": 22,
+    "chapter": 1,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 34,
+      "printed_page": 17
+    },
+    "kind": "study",
+    "chapter_title": "随机事件和概率",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 34
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/01_随机事件和概率_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      18,
+      39
+    ],
+    "pages": 22,
+    "bytes": 12955401,
+    "sha256": "c846c711f44d6e92513c1c39213934e455d13286aff2d6306637f928c853514c",
+    "git_blob_sha": "be55d6d6898ee6c18babcd9e3fa1678d246d0bdb"
+  },
+  {
+    "title": "第二章 随机变量及其概率分布",
+    "printed_start": 23,
+    "printed_end": 41,
+    "chapter": 2,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 54,
+      "printed_page": 37
+    },
+    "kind": "study",
+    "chapter_title": "随机变量及其概率分布",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 54
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/02_随机变量及其概率分布_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      40,
+      58
+    ],
+    "pages": 19,
+    "bytes": 10356727,
+    "sha256": "611230185f175d90b67bfb5d816d17c91ca5061ec93550a6bff2a5456ea9227a",
+    "git_blob_sha": "ae4e73b960bf9a981bdb2b240cf64dd47a137e43"
+  },
+  {
+    "title": "第三章 多维随机变量及其分布",
+    "printed_start": 42,
+    "printed_end": 67,
+    "chapter": 3,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 73,
+      "printed_page": 56
+    },
+    "kind": "study",
+    "chapter_title": "多维随机变量及其分布",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 73
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/03_多维随机变量及其分布_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      59,
+      84
+    ],
+    "pages": 26,
+    "bytes": 14292591,
+    "sha256": "e5d4181eb6756d1604f6441521d31311e8f3f773870decdf544b8f16c2c83fda",
+    "git_blob_sha": "eab78dfab3e1bf4a4156b236466617591fe20df1"
+  },
+  {
+    "title": "第四章 随机变量的数字特征",
+    "printed_start": 68,
+    "printed_end": 86,
+    "chapter": 4,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 96,
+      "printed_page": 79
+    },
+    "kind": "study",
+    "chapter_title": "随机变量的数字特征",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 96
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/04_随机变量的数字特征_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      85,
+      103
+    ],
+    "pages": 19,
+    "bytes": 10462719,
+    "sha256": "f1cc9a89fe652b2ea6570e37c92e0fbbaedfe52582e82acae44d1624add6d73d",
+    "git_blob_sha": "979e537ab02507bdbf1db2ad825b3ee17fcf1267"
+  },
+  {
+    "title": "第五章 大数定律和中心极限定理",
+    "printed_start": 87,
+    "printed_end": 94,
+    "chapter": 5,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 108,
+      "printed_page": 91
+    },
+    "kind": "study",
+    "chapter_title": "大数定律和中心极限定理",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 108
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/05_大数定律和中心极限定理_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      104,
+      111
+    ],
+    "pages": 8,
+    "bytes": 4062323,
+    "sha256": "97157ac77dba8e81912ba4b7d8c87b44c54da6cc6944e60985a5591371e25354",
+    "git_blob_sha": "8effe0cfdd94450059498727b00c9f6b21c65d46"
+  },
+  {
+    "title": "第六章 数理统计的基本概念",
+    "printed_start": 95,
+    "printed_end": 111,
+    "chapter": 6,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 124,
+      "printed_page": 107
+    },
+    "kind": "study",
+    "chapter_title": "数理统计的基本概念",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 124
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/06_数理统计的基本概念_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      112,
+      128
+    ],
+    "pages": 17,
+    "bytes": 9380892,
+    "sha256": "87fd483fc8a92891e0f7eeb36eedc2515b294c06431536af72ade1af1ef3f105",
+    "git_blob_sha": "f976ff83f14ef965d3513cfa3f127e7eeeca347c"
+  },
+  {
+    "title": "第七章 参数估计",
+    "printed_start": 112,
+    "printed_end": 128,
+    "chapter": 7,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 139,
+      "printed_page": 122
+    },
+    "kind": "study",
+    "chapter_title": "参数估计",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 139
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/07_参数估计_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      129,
+      145
+    ],
+    "pages": 17,
+    "bytes": 8646146,
+    "sha256": "270b496a745b7b42ea9b81804abf2439fb296045017bef60c64a78f87913fff8",
+    "git_blob_sha": "8cb59695ffdab865cc180ca8debb6e4f497bd284"
+  },
+  {
+    "title": "第八章 假设检验",
+    "printed_start": 129,
+    "printed_end": 136,
+    "chapter": 8,
+    "type": "chapter",
+    "example_analysis_start": {
+      "source_page": 151,
+      "printed_page": 134
+    },
+    "kind": "study",
+    "chapter_title": "假设检验",
+    "bookmarks": [
+      {
+        "title": "例题解析",
+        "page": 151
+      }
+    ],
+    "path": "02_概率论与数理统计/01_学习册/08_假设检验_学习册.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      146,
+      153
+    ],
+    "pages": 8,
+    "bytes": 4688398,
+    "sha256": "be58d5cae66d734cc44bdf0e3c465c2b9ecdc1b40eceeee597fadb223e163a10",
+    "git_blob_sha": "01d2f72b210cdac3a26c7d4a0aa23e658db48361"
+  },
+  {
+    "title": "广告与封底",
+    "printed_start": null,
+    "printed_end": null,
+    "kind": "back_matter",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/01_学习册/99_广告与封底.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论学习册》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "学习册",
+    "source_pdf_pages": [
+      154,
+      155
+    ],
+    "pages": 2,
+    "bytes": 1868457,
+    "sha256": "eef1e425b5df0cda3688f2e4b9281e5aa37f819ac2260d75d1cbf53da97794f6",
+    "git_blob_sha": "7d988df5881211606161f68c786b1282cddc911b"
+  },
+  {
+    "title": "封面与目录",
+    "printed_start": null,
+    "printed_end": null,
+    "notes": "含封面、广告、扉页、二维码及两页目录；目录自身印刷页码为 1—2。",
+    "kind": "front_matter",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/00_封面与目录.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      1,
+      6
+    ],
+    "pages": 6,
+    "bytes": 4026944,
+    "sha256": "acf81f415b01fdbada6c52cff7bfa4ba57b15565e20e93b84f3cb14c8e8e0416",
+    "git_blob_sha": "77b5aba09743a855e84184084949b907d4721856"
+  },
+  {
+    "title": "第一章 随机事件和概率（题目）",
+    "printed_start": 1,
+    "printed_end": 11,
+    "chapter": 1,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 15,
+      "printed_page": 9
+    },
+    "kind": "questions",
+    "chapter_title": "随机事件和概率",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 15
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/01_随机事件和概率_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      7,
+      17
+    ],
+    "pages": 11,
+    "bytes": 4439253,
+    "sha256": "0fcec9e702f0ada3f1e0ce5740129d8e1b787298d2076a7feb96bcda4e4db4ce",
+    "git_blob_sha": "46260bad51f0f5b1a55137fffd9f77ba3776f0d9"
+  },
+  {
+    "title": "第二章 随机变量及其概率分布（题目）",
+    "printed_start": 12,
+    "printed_end": 22,
+    "chapter": 2,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 26,
+      "printed_page": 20
+    },
+    "kind": "questions",
+    "chapter_title": "随机变量及其概率分布",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 26
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/02_随机变量及其概率分布_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      18,
+      28
+    ],
+    "pages": 11,
+    "bytes": 3994470,
+    "sha256": "869c4c311b39d13d1a7fb37b8cab76e1bdfbc3f94e4b50549632b9e507cf8fec",
+    "git_blob_sha": "d2bda2a90cc50cf8328b3067faab2c98504740de"
+  },
+  {
+    "title": "第三章 多维随机变量及其分布（题目）",
+    "printed_start": 23,
+    "printed_end": 41,
+    "chapter": 3,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 45,
+      "printed_page": 39
+    },
+    "kind": "questions",
+    "chapter_title": "多维随机变量及其分布",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 45
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/03_多维随机变量及其分布_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      29,
+      47
+    ],
+    "pages": 19,
+    "bytes": 6724388,
+    "sha256": "240b4f71ced4d04f5201fc4d07b32d3b5daf70c28c81f0214d0a49b793277592",
+    "git_blob_sha": "ad097f6c06cda61ee9d076811a38bda170f80d11"
+  },
+  {
+    "title": "第四章 随机变量的数字特征（题目）",
+    "printed_start": 42,
+    "printed_end": 53,
+    "chapter": 4,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 57,
+      "printed_page": 51
+    },
+    "kind": "questions",
+    "chapter_title": "随机变量的数字特征",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 57
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/04_随机变量的数字特征_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      48,
+      59
+    ],
+    "pages": 12,
+    "bytes": 4158760,
+    "sha256": "91574d7ca9da064e62a50e55592d11fcce070d7b853c4952da3d6f0c045030f6",
+    "git_blob_sha": "9791b4b0585cee4334dbfda5092e7e2324c6c54d"
+  },
+  {
+    "title": "第五章 大数定律和中心极限定理（题目）",
+    "printed_start": 54,
+    "printed_end": 58,
+    "chapter": 5,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "kind": "questions",
+    "chapter_title": "大数定律和中心极限定理",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/05_大数定律和中心极限定理_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      60,
+      64
+    ],
+    "pages": 5,
+    "bytes": 1754697,
+    "sha256": "947e6ab45aaabcb7eaddbb8f77fcb2bb9b336f78a04e699e0825261a1826c9c0",
+    "git_blob_sha": "eb08f845a6f57d1c80420babf065cd25476fe9a1"
+  },
+  {
+    "title": "第六章 数理统计的基本概念（题目）",
+    "printed_start": 59,
+    "printed_end": 69,
+    "chapter": 6,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 73,
+      "printed_page": 67
+    },
+    "kind": "questions",
+    "chapter_title": "数理统计的基本概念",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 73
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/06_数理统计的基本概念_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      65,
+      75
+    ],
+    "pages": 11,
+    "bytes": 3882633,
+    "sha256": "36ac6750efd728399e6963697c581cf8d3b810cb3ccc30f4c26a92d4373bd6dc",
+    "git_blob_sha": "ad6e1c73cb2521d16e5623e486c77cd9cc58592a"
+  },
+  {
+    "title": "第七章 参数估计（题目）",
+    "printed_start": 70,
+    "printed_end": 81,
+    "chapter": 7,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 86,
+      "printed_page": 80
+    },
+    "kind": "questions",
+    "chapter_title": "参数估计",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 86
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/07_参数估计_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      76,
+      87
+    ],
+    "pages": 12,
+    "bytes": 3925499,
+    "sha256": "62cd71607db16741a29826b5a48f5575701f4204da8ae801a98a03ea902a34c2",
+    "git_blob_sha": "851aabe28d14cffd66f12b632715aedc661d8c08"
+  },
+  {
+    "title": "第八章 假设检验（题目）",
+    "printed_start": 82,
+    "printed_end": 87,
+    "chapter": 8,
+    "type": "questions",
+    "example_answers": "例题优选答案参见对应学习册的例题解析。",
+    "self_test_start": {
+      "source_page": 93,
+      "printed_page": 87
+    },
+    "kind": "questions",
+    "chapter_title": "假设检验",
+    "bookmarks": [
+      {
+        "title": "自测习题",
+        "page": 93
+      }
+    ],
+    "path": "02_概率论与数理统计/02_严选题/08_假设检验_严选题.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      88,
+      93
+    ],
+    "pages": 6,
+    "bytes": 2307243,
+    "sha256": "368aa16b93f60158d0868eeaadc2ba727b2a7a6f3e9b00d4c2070ef9380743e0",
+    "git_blob_sha": "651707b5e84f27d935624912b92dccfbef3bf6a2"
+  },
+  {
+    "title": "第一章 随机事件和概率（自测习题参考答案）",
+    "printed_start": 88,
+    "printed_end": 88,
+    "chapter": 1,
+    "type": "self_test_answers",
+    "kind": "answers",
+    "chapter_title": "随机事件和概率",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/01_随机事件和概率_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      94,
+      94
+    ],
+    "pages": 1,
+    "bytes": 655531,
+    "sha256": "391c601edd926a354dd478e6e747ed7723801041a44c27460b1b9a36d3c0a76c",
+    "git_blob_sha": "31270ecbbb5c78d2cdbc93229163289294c4f8f5"
+  },
+  {
+    "title": "第二章 随机变量及其概率分布（自测习题参考答案）",
+    "printed_start": 89,
+    "printed_end": 90,
+    "chapter": 2,
+    "type": "self_test_answers",
+    "kind": "answers",
+    "chapter_title": "随机变量及其概率分布",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/02_随机变量及其概率分布_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      95,
+      96
+    ],
+    "pages": 2,
+    "bytes": 1057355,
+    "sha256": "30f32c382c7a41f267e3792a77cc8e8fb1f863c5aa3cec4e06bff2732f681248",
+    "git_blob_sha": "c29ca82e23f4eb57bb1a1fac7dbe45a31a7dc76f"
+  },
+  {
+    "title": "第三章 多维随机变量及其分布（自测习题参考答案）",
+    "printed_start": 91,
+    "printed_end": 93,
+    "chapter": 3,
+    "type": "self_test_answers",
+    "shared_source_pages": [
+      99
+    ],
+    "intentional_overlap_reason": "原书相邻章节答案共用整页；有意在相邻答案文件中重复完整页面，保留每章答案完整性，不裁切。",
+    "kind": "answers",
+    "chapter_title": "多维随机变量及其分布",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/03_多维随机变量及其分布_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      97,
+      99
+    ],
+    "pages": 3,
+    "bytes": 1565096,
+    "sha256": "532530c3687f381bfdaaeee6d7e3bfbd91208d5bddf58fb633880ac8b60f21f1",
+    "git_blob_sha": "7233e99fca22ab2f6a2570c05fc7666dc838ee5a"
+  },
+  {
+    "title": "第四章 随机变量的数字特征（自测习题参考答案）",
+    "printed_start": 93,
+    "printed_end": 95,
+    "chapter": 4,
+    "type": "self_test_answers",
+    "shared_source_pages": [
+      99,
+      101
+    ],
+    "intentional_overlap_reason": "原书相邻章节答案共用整页；有意在相邻答案文件中重复完整页面，保留每章答案完整性，不裁切。",
+    "kind": "answers",
+    "chapter_title": "随机变量的数字特征",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/04_随机变量的数字特征_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      99,
+      101
+    ],
+    "pages": 3,
+    "bytes": 1686562,
+    "sha256": "c965207c27b6f36b282acd84942bf84daeaf3bebc7cbf259f5007b3e491e2f1b",
+    "git_blob_sha": "b6be6ce13243c92c1f0f5f3c6e3c7d26e3f275b5"
+  },
+  {
+    "title": "第六章 数理统计的基本概念（自测习题参考答案）",
+    "printed_start": 95,
+    "printed_end": 97,
+    "chapter": 6,
+    "type": "self_test_answers",
+    "shared_source_pages": [
+      101,
+      103
+    ],
+    "intentional_overlap_reason": "原书相邻章节答案共用整页；有意在相邻答案文件中重复完整页面，保留每章答案完整性，不裁切。",
+    "kind": "answers",
+    "chapter_title": "数理统计的基本概念",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/06_数理统计的基本概念_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      101,
+      103
+    ],
+    "pages": 3,
+    "bytes": 1840098,
+    "sha256": "e8493c6f5da01c6935151850c052974fb6348bb7960a4b33e93f9d7dae22a729",
+    "git_blob_sha": "e075b8946a57bcdd1c6f7bf08906a7c41b3cd1f9"
+  },
+  {
+    "title": "第七章 参数估计（自测习题参考答案）",
+    "printed_start": 97,
+    "printed_end": 97,
+    "chapter": 7,
+    "type": "self_test_answers",
+    "shared_source_pages": [
+      103
+    ],
+    "intentional_overlap_reason": "原书相邻章节答案共用整页；有意在相邻答案文件中重复完整页面，保留每章答案完整性，不裁切。",
+    "kind": "answers",
+    "chapter_title": "参数估计",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/07_参数估计_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      103,
+      103
+    ],
+    "pages": 1,
+    "bytes": 667228,
+    "sha256": "7d67341f086d015abf90c736ce5ddc689ac5183f539a3bd41f1d88c51f63b37c",
+    "git_blob_sha": "ffe7383a6be3608710445ce3f0654a68614e6281"
+  },
+  {
+    "title": "第八章 假设检验（自测习题参考答案）",
+    "printed_start": 98,
+    "printed_end": 98,
+    "chapter": 8,
+    "type": "self_test_answers",
+    "kind": "answers",
+    "chapter_title": "假设检验",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/08_假设检验_自测答案.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      104,
+      104
+    ],
+    "pages": 1,
+    "bytes": 603738,
+    "sha256": "6731ea5377dfeaa2f0f341f83539741e714ae63f3d2928b4e9ca87307da2274e",
+    "git_blob_sha": "49bb4bb9cd7e916d16eec6ea4a01c4408aa38a6b"
+  },
+  {
+    "title": "书目广告与封底",
+    "printed_start": null,
+    "printed_end": null,
+    "notes": "第 105—106 页为书目表（印刷罗马页码 I—II），第 107 页为广告，第 108 页为封底。",
+    "kind": "back_matter",
+    "bookmarks": [],
+    "path": "02_概率论与数理统计/02_严选题/99_书目广告与封底.pdf",
+    "source": "27考研数学王式安《复习全书基础篇-概率论严选题》.pdf",
+    "subject": "概率论与数理统计",
+    "book_kind": "严选题",
+    "source_pdf_pages": [
+      105,
+      108
+    ],
+    "pages": 4,
+    "bytes": 3626237,
+    "sha256": "b3b70b98eccba1b4d36d3e79c1bbf7870215dd4354b213798b865d3a010a4339",
+    "git_blob_sha": "b1cffbe90990611929c371cc18c48f18d417f261"
+  }
+]
