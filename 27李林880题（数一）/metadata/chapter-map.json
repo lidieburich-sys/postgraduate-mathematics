@@ -1,0 +1,763 @@
+{
+  "page_numbering": "1-based; 正文书内页码 + 6 = 原 PDF 页序",
+  "files": [
+    {
+      "title": "封面、版权、目录与空白页",
+      "path": "00_封面目录与附页/解析册_封面版权目录与空白页.pdf",
+      "pdf_start": 1,
+      "pdf_end": 6,
+      "printed_start": null,
+      "printed_end": null,
+      "is_extra": true,
+      "subsections": [],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 6,
+      "bytes": 4663657,
+      "sha256": "615b9c60befde14d1e4b136397725f8dba6929d49877e31211d295c2ca6831d9",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 1,
+      "title": "函数、极限、连续",
+      "subject": "高等数学",
+      "path": "01_高等数学/01_函数、极限、连续_解析.pdf",
+      "pdf_start": 7,
+      "pdf_end": 25,
+      "printed_start": 1,
+      "printed_end": 19,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 1,
+          "pdf_start": 7
+        },
+        {
+          "title": "综合题",
+          "printed_start": 6,
+          "pdf_start": 12
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 18,
+          "pdf_start": 24
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 19,
+      "bytes": 14780260,
+      "sha256": "cc295c4a89462a5411df2d685aaf0046f001473557400b07338f79b90a8b820c",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 2,
+      "title": "一元函数微分学及其应用",
+      "subject": "高等数学",
+      "path": "01_高等数学/02_一元函数微分学及其应用_解析.pdf",
+      "pdf_start": 26,
+      "pdf_end": 57,
+      "printed_start": 20,
+      "printed_end": 51,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 20,
+          "pdf_start": 26
+        },
+        {
+          "title": "综合题",
+          "printed_start": 33,
+          "pdf_start": 39
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 49,
+          "pdf_start": 55
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 32,
+      "bytes": 25439518,
+      "sha256": "2bfa1f706a1e928daaa43d388abdfccf6094dae0e5b77a8749939ddb44dea006",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 3,
+      "title": "一元函数积分学及其应用",
+      "subject": "高等数学",
+      "path": "01_高等数学/03_一元函数积分学及其应用_解析.pdf",
+      "pdf_start": 58,
+      "pdf_end": 101,
+      "printed_start": 52,
+      "printed_end": 95,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 52,
+          "pdf_start": 58
+        },
+        {
+          "title": "综合题",
+          "printed_start": 70,
+          "pdf_start": 76
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 92,
+          "pdf_start": 98
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 44,
+      "bytes": 33449143,
+      "sha256": "6d51dda54100f884f39aa28dc42b83c5b0f6f3df36323c1b32d583250324d8b9",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 4,
+      "title": "空间解析几何",
+      "subject": "高等数学",
+      "path": "01_高等数学/04_空间解析几何_解析.pdf",
+      "pdf_start": 102,
+      "pdf_end": 108,
+      "printed_start": 96,
+      "printed_end": 102,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 96,
+          "pdf_start": 102
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 102,
+          "pdf_start": 108
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 7,
+      "bytes": 6037015,
+      "sha256": "e3010bf89ff7a3cc795e03546ce38339e441477050a4a11090dbc8393722b3c3",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 5,
+      "title": "多元函数微分学及其应用",
+      "subject": "高等数学",
+      "path": "01_高等数学/05_多元函数微分学及其应用_解析.pdf",
+      "pdf_start": 109,
+      "pdf_end": 129,
+      "printed_start": 103,
+      "printed_end": 123,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 103,
+          "pdf_start": 109
+        },
+        {
+          "title": "综合题",
+          "printed_start": 111,
+          "pdf_start": 117
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 123,
+          "pdf_start": 129
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 21,
+      "bytes": 17231656,
+      "sha256": "507f7b57ce73a50f997d0233d884d5410b5deeb8dc3a2aa9bc2b5396918c2825",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 6,
+      "title": "重积分及其应用",
+      "subject": "高等数学",
+      "path": "01_高等数学/06_重积分及其应用_解析.pdf",
+      "pdf_start": 130,
+      "pdf_end": 161,
+      "printed_start": 124,
+      "printed_end": 155,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 124,
+          "pdf_start": 130
+        },
+        {
+          "title": "综合题",
+          "printed_start": 138,
+          "pdf_start": 144
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 153,
+          "pdf_start": 159
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 32,
+      "bytes": 25014269,
+      "sha256": "3a88292b4023469517f7518e055f5161479d21a4e4b388176e11b09ead1e41f1",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 7,
+      "title": "微分方程及其应用",
+      "subject": "高等数学",
+      "path": "01_高等数学/07_微分方程及其应用_解析.pdf",
+      "pdf_start": 162,
+      "pdf_end": 180,
+      "printed_start": 156,
+      "printed_end": 174,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 156,
+          "pdf_start": 162
+        },
+        {
+          "title": "综合题",
+          "printed_start": 163,
+          "pdf_start": 169
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 174,
+          "pdf_start": 180
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 19,
+      "bytes": 15281983,
+      "sha256": "5633716ff914e17f10ba79b60c0fdfb0751b0a69d2f797e5c6ba8cdb6fffdbc5",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 8,
+      "title": "无穷级数",
+      "subject": "高等数学",
+      "path": "01_高等数学/08_无穷级数_解析.pdf",
+      "pdf_start": 181,
+      "pdf_end": 206,
+      "printed_start": 175,
+      "printed_end": 200,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 175,
+          "pdf_start": 181
+        },
+        {
+          "title": "综合题",
+          "printed_start": 186,
+          "pdf_start": 192
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 200,
+          "pdf_start": 206
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 26,
+      "bytes": 21057436,
+      "sha256": "645a1cf4059ec39d3ec428642e76bbfce31b88e122d6276799bcdd917623cf96",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 9,
+      "title": "曲线积分与曲面积分",
+      "subject": "高等数学",
+      "path": "01_高等数学/09_曲线积分与曲面积分_解析.pdf",
+      "pdf_start": 207,
+      "pdf_end": 236,
+      "printed_start": 201,
+      "printed_end": 230,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 201,
+          "pdf_start": 207
+        },
+        {
+          "title": "综合题",
+          "printed_start": 211,
+          "pdf_start": 217
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 229,
+          "pdf_start": 235
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 30,
+      "bytes": 24524663,
+      "sha256": "a055a447c9caa5e9d903cbc893abf42b930bbfbd3ea761d2472ca51b13247120",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 10,
+      "title": "行列式",
+      "subject": "线性代数",
+      "path": "02_线性代数/10_行列式_解析.pdf",
+      "pdf_start": 237,
+      "pdf_end": 245,
+      "printed_start": 231,
+      "printed_end": 239,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 231,
+          "pdf_start": 237
+        },
+        {
+          "title": "综合题",
+          "printed_start": 234,
+          "pdf_start": 240
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 239,
+          "pdf_start": 245
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 9,
+      "bytes": 7154863,
+      "sha256": "c9d4bc01752f237ede4abcd62cd5a9222c665d00d9298f6700708640be41be37",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 11,
+      "title": "矩阵",
+      "subject": "线性代数",
+      "path": "02_线性代数/11_矩阵_解析.pdf",
+      "pdf_start": 246,
+      "pdf_end": 258,
+      "printed_start": 240,
+      "printed_end": 252,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 240,
+          "pdf_start": 246
+        },
+        {
+          "title": "综合题",
+          "printed_start": 247,
+          "pdf_start": 253
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 252,
+          "pdf_start": 258
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 13,
+      "bytes": 10499774,
+      "sha256": "22d7696a8fe652307f5516c4d64c77b72ba0fe8e40da883497f84a12b5a0a232",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 12,
+      "title": "向量",
+      "subject": "线性代数",
+      "path": "02_线性代数/12_向量_解析.pdf",
+      "pdf_start": 259,
+      "pdf_end": 271,
+      "printed_start": 253,
+      "printed_end": 265,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 253,
+          "pdf_start": 259
+        },
+        {
+          "title": "综合题",
+          "printed_start": 258,
+          "pdf_start": 264
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 265,
+          "pdf_start": 271
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 13,
+      "bytes": 11460728,
+      "sha256": "1e0c4b76c76c11c3c98127ba11b8b7389ebca25756cc367c916693562c25c0c6",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 13,
+      "title": "线性方程组",
+      "subject": "线性代数",
+      "path": "02_线性代数/13_线性方程组_解析.pdf",
+      "pdf_start": 272,
+      "pdf_end": 286,
+      "printed_start": 266,
+      "printed_end": 280,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 266,
+          "pdf_start": 272
+        },
+        {
+          "title": "综合题",
+          "printed_start": 271,
+          "pdf_start": 277
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 279,
+          "pdf_start": 285
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 15,
+      "bytes": 12978713,
+      "sha256": "c333bafee9067e7b3ef66452b0c315f70ddce77ec47cd1ba68f90b3a6bb4df6d",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 14,
+      "title": "相似矩阵",
+      "subject": "线性代数",
+      "path": "02_线性代数/14_相似矩阵_解析.pdf",
+      "pdf_start": 287,
+      "pdf_end": 312,
+      "printed_start": 281,
+      "printed_end": 306,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 281,
+          "pdf_start": 287
+        },
+        {
+          "title": "综合题",
+          "printed_start": 290,
+          "pdf_start": 296
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 305,
+          "pdf_start": 311
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 26,
+      "bytes": 20251983,
+      "sha256": "b74d5b7e92930579881d599c35e1fd1beace2ffe550469c4ec542cbafb3b3ce6",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 15,
+      "title": "二次型",
+      "subject": "线性代数",
+      "path": "02_线性代数/15_二次型_解析.pdf",
+      "pdf_start": 313,
+      "pdf_end": 339,
+      "printed_start": 307,
+      "printed_end": 333,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 307,
+          "pdf_start": 313
+        },
+        {
+          "title": "综合题",
+          "printed_start": 313,
+          "pdf_start": 319
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 329,
+          "pdf_start": 335
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 27,
+      "bytes": 20919390,
+      "sha256": "cab156bd49c67b3013b50c8f873572658ec5be3b8351b28c7d0e8e0f4950f26d",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 16,
+      "title": "随机事件及其概率",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/16_随机事件及其概率_解析.pdf",
+      "pdf_start": 340,
+      "pdf_end": 344,
+      "printed_start": 334,
+      "printed_end": 338,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 334,
+          "pdf_start": 340
+        },
+        {
+          "title": "综合题",
+          "printed_start": 336,
+          "pdf_start": 342
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 338,
+          "pdf_start": 344
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 5,
+      "bytes": 4716980,
+      "sha256": "9b466fbfe8868dcfcfaa0b9942f5e6bc25c0d5db1baa10aa90b384243eccf3f0",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 17,
+      "title": "随机变量及其分布",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/17_随机变量及其分布_解析.pdf",
+      "pdf_start": 345,
+      "pdf_end": 352,
+      "printed_start": 339,
+      "printed_end": 346,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 339,
+          "pdf_start": 345
+        },
+        {
+          "title": "综合题",
+          "printed_start": 342,
+          "pdf_start": 348
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 8,
+      "bytes": 5317979,
+      "sha256": "8fdc95975ad65e1147bfc4510d8998f528a137cf55aeed7dcffd12458b65aaf2",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 18,
+      "title": "多维随机变量及其分布",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/18_多维随机变量及其分布_解析.pdf",
+      "pdf_start": 353,
+      "pdf_end": 371,
+      "printed_start": 347,
+      "printed_end": 365,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 347,
+          "pdf_start": 353
+        },
+        {
+          "title": "综合题",
+          "printed_start": 354,
+          "pdf_start": 360
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 363,
+          "pdf_start": 369
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 19,
+      "bytes": 12563554,
+      "sha256": "b69c4f51f8bb6a6171c8bbb4dca459ffb9505a5b94f52bba633f99eb00b312ef",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 19,
+      "title": "随机变量的数字特征",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/19_随机变量的数字特征_解析.pdf",
+      "pdf_start": 372,
+      "pdf_end": 389,
+      "printed_start": 366,
+      "printed_end": 383,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 366,
+          "pdf_start": 372
+        },
+        {
+          "title": "综合题",
+          "printed_start": 371,
+          "pdf_start": 377
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 382,
+          "pdf_start": 388
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 18,
+      "bytes": 13179486,
+      "sha256": "fba1f48a5f2fbbc4b9cd8fcedd7d0351faf33493d41d753e6a4c55dc6dc6992e",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 20,
+      "title": "大数定律与中心极限定理",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/20_大数定律与中心极限定理_解析.pdf",
+      "pdf_start": 390,
+      "pdf_end": 392,
+      "printed_start": 384,
+      "printed_end": 386,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 384,
+          "pdf_start": 390
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 3,
+      "bytes": 2174580,
+      "sha256": "39b834cdfe5c0ac4acd26f3cc59da3ff4176ac2be527cca8f2c1440162807980",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 21,
+      "title": "数理统计的基本概念",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/21_数理统计的基本概念_解析.pdf",
+      "pdf_start": 393,
+      "pdf_end": 400,
+      "printed_start": 387,
+      "printed_end": 394,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 387,
+          "pdf_start": 393
+        },
+        {
+          "title": "综合题",
+          "printed_start": 389,
+          "pdf_start": 395
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 8,
+      "bytes": 4889771,
+      "sha256": "5e8252d166bc8a3eb888acf363c50ba3b2a474d95e6632b875300300a172ec00",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 22,
+      "title": "参数估计",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/22_参数估计_解析.pdf",
+      "pdf_start": 401,
+      "pdf_end": 414,
+      "printed_start": 395,
+      "printed_end": 408,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 395,
+          "pdf_start": 401
+        },
+        {
+          "title": "拓展题",
+          "printed_start": 406,
+          "pdf_start": 412
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 14,
+      "bytes": 10266086,
+      "sha256": "7f4189a071a89183c4784fd6d98bd09847efe07d69fdac5d31efd65a141c5ca5",
+      "scan_content_verified": true
+    },
+    {
+      "chapter_number": 23,
+      "title": "假设检验",
+      "subject": "概率论与数理统计",
+      "path": "03_概率论与数理统计/23_假设检验_解析.pdf",
+      "pdf_start": 415,
+      "pdf_end": 416,
+      "printed_start": 409,
+      "printed_end": 410,
+      "is_extra": false,
+      "subsections": [
+        {
+          "title": "基础题",
+          "printed_start": 409,
+          "pdf_start": 415
+        }
+      ],
+      "source": "880数一解析分册.pdf",
+      "kind": "解析",
+      "pages": 2,
+      "bytes": 1914636,
+      "sha256": "6fc4fe566ee83a0bb2e5fef167d90b32b358f1d3b89692fd3a66c4979648f7ba",
+      "scan_content_verified": true
+    }
+  ]
+}

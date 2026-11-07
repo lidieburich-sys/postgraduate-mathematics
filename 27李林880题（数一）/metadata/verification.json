@@ -1,0 +1,313 @@
+{
+  "source_pages": 416,
+  "output_pages": 416,
+  "output_pdf_count": 24,
+  "chapter_count": 23,
+  "coverage_exactly_once": true,
+  "missing_pages": [],
+  "duplicate_pages": [],
+  "all_page_content_and_image_streams_match": true,
+  "all_page_boxes_and_rotation_match": true,
+  "all_page_labels_verified": true,
+  "output_bytes": 325768123,
+  "largest_file_bytes": 33449143,
+  "visual_verification": {
+    "status": "rendered_and_pixel_compared",
+    "sample_count": 48,
+    "all_sample_rasters_identical_to_original": true,
+    "samples": [
+      {
+        "path": "00_封面目录与附页/解析册_封面版权目录与空白页.pdf",
+        "local_page": 1,
+        "source_pdf_page": 1,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "00_封面目录与附页/解析册_封面版权目录与空白页.pdf",
+        "local_page": 6,
+        "source_pdf_page": 6,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/01_函数、极限、连续_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 7,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/01_函数、极限、连续_解析.pdf",
+        "local_page": 19,
+        "source_pdf_page": 25,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/02_一元函数微分学及其应用_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 26,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/02_一元函数微分学及其应用_解析.pdf",
+        "local_page": 32,
+        "source_pdf_page": 57,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/03_一元函数积分学及其应用_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 58,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/03_一元函数积分学及其应用_解析.pdf",
+        "local_page": 44,
+        "source_pdf_page": 101,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/04_空间解析几何_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 102,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/04_空间解析几何_解析.pdf",
+        "local_page": 7,
+        "source_pdf_page": 108,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/05_多元函数微分学及其应用_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 109,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/05_多元函数微分学及其应用_解析.pdf",
+        "local_page": 21,
+        "source_pdf_page": 129,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/06_重积分及其应用_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 130,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/06_重积分及其应用_解析.pdf",
+        "local_page": 32,
+        "source_pdf_page": 161,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/07_微分方程及其应用_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 162,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/07_微分方程及其应用_解析.pdf",
+        "local_page": 19,
+        "source_pdf_page": 180,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/08_无穷级数_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 181,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/08_无穷级数_解析.pdf",
+        "local_page": 26,
+        "source_pdf_page": 206,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/09_曲线积分与曲面积分_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 207,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "01_高等数学/09_曲线积分与曲面积分_解析.pdf",
+        "local_page": 30,
+        "source_pdf_page": 236,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/10_行列式_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 237,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/10_行列式_解析.pdf",
+        "local_page": 9,
+        "source_pdf_page": 245,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/11_矩阵_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 246,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/11_矩阵_解析.pdf",
+        "local_page": 13,
+        "source_pdf_page": 258,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/12_向量_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 259,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/12_向量_解析.pdf",
+        "local_page": 13,
+        "source_pdf_page": 271,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/13_线性方程组_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 272,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/13_线性方程组_解析.pdf",
+        "local_page": 15,
+        "source_pdf_page": 286,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/14_相似矩阵_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 287,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/14_相似矩阵_解析.pdf",
+        "local_page": 26,
+        "source_pdf_page": 312,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/15_二次型_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 313,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "02_线性代数/15_二次型_解析.pdf",
+        "local_page": 27,
+        "source_pdf_page": 339,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/16_随机事件及其概率_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 340,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/16_随机事件及其概率_解析.pdf",
+        "local_page": 5,
+        "source_pdf_page": 344,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/17_随机变量及其分布_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 345,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/17_随机变量及其分布_解析.pdf",
+        "local_page": 8,
+        "source_pdf_page": 352,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/18_多维随机变量及其分布_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 353,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/18_多维随机变量及其分布_解析.pdf",
+        "local_page": 19,
+        "source_pdf_page": 371,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/19_随机变量的数字特征_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 372,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/19_随机变量的数字特征_解析.pdf",
+        "local_page": 18,
+        "source_pdf_page": 389,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/20_大数定律与中心极限定理_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 390,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/20_大数定律与中心极限定理_解析.pdf",
+        "local_page": 3,
+        "source_pdf_page": 392,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/21_数理统计的基本概念_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 393,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/21_数理统计的基本概念_解析.pdf",
+        "local_page": 8,
+        "source_pdf_page": 400,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/22_参数估计_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 401,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/22_参数估计_解析.pdf",
+        "local_page": 14,
+        "source_pdf_page": 414,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/23_假设检验_解析.pdf",
+        "local_page": 1,
+        "source_pdf_page": 415,
+        "raster_pixels_identical": true
+      },
+      {
+        "path": "03_概率论与数理统计/23_假设检验_解析.pdf",
+        "local_page": 2,
+        "source_pdf_page": 416,
+        "raster_pixels_identical": true
+      }
+    ]
+  },
+  "all_readme_links_verified": true,
+  "all_bookmark_destinations_verified": true,
+  "chapter_starts_visually_checked": 23,
+  "chapter_boundary_deviations": []
+}
