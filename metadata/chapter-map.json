@@ -385,5 +385,284 @@
     "bytes": 15144209,
     "sha256": "a083f95340671241a027e0fb4ecbd2f1b6b7edf419bcff37519df5515d018b98",
     "git_blob_sha": "2235d3b113069d2245345a089bdb3f33027a2699"
+  },
+  {
+    "path": "27张宇《核心计算通关讲义》.pdf",
+    "source": "27张宇《核心计算通关讲义》.pdf",
+    "title": "27张宇《核心计算通关讲义》",
+    "source_pdf_pages": [
+      1,
+      87
+    ],
+    "printed_pages": null,
+    "pages": 87,
+    "unchanged_original": true,
+    "bytes": 26915483,
+    "sha256": "2abf2ee308d6fb843597941e37c0a118500a95b7e6966561ab8f57a80008bba8",
+    "git_blob_sha": "f2ec8be036ada29eb8f0ea53d3a2141690fca503"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/00_封面前言目录.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "封面、前言与目录",
+    "source_pdf_pages": [
+      1,
+      7
+    ],
+    "printed_pages": null,
+    "pages": 7,
+    "unchanged_original": false,
+    "bytes": 5055951,
+    "sha256": "9a57f5250bdbe3c318a34e61c3ac9a572b10adda1d661573cbff0855feebb285",
+    "git_blob_sha": "edabdf1140b18dfd4673f9a81d3287f8804a9dd0"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/01_第0讲_零基础课-线性代数入门.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第0讲 零基础课——线性代数入门",
+    "source_pdf_pages": [
+      8,
+      17
+    ],
+    "printed_pages": [
+      1,
+      10
+    ],
+    "pages": 10,
+    "unchanged_original": false,
+    "bytes": 5368860,
+    "sha256": "204a8ad5ca6722c1519600de1f1c1034bc9bb67c095a0a22c81c181dfc2ef2cc",
+    "git_blob_sha": "bb26d6239fb4d83cf96211bafe5acce5ff422445"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/02_第1讲_行列式.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第1讲 行列式",
+    "source_pdf_pages": [
+      18,
+      51
+    ],
+    "printed_pages": [
+      11,
+      44
+    ],
+    "pages": 34,
+    "unchanged_original": false,
+    "bytes": 17930433,
+    "sha256": "c22b8365b830bc6792927919e95cec47160c88dc64bdbad2a434efebedd9ebde",
+    "git_blob_sha": "98e0c4b84b2ece40f1f17a2db0b4a77a6aeb5215"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/03_第2讲_矩阵.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第2讲 矩阵",
+    "source_pdf_pages": [
+      52,
+      88
+    ],
+    "printed_pages": [
+      45,
+      81
+    ],
+    "pages": 37,
+    "unchanged_original": false,
+    "bytes": 21921903,
+    "sha256": "d83119a424e2d226a37472707428ce78f86df7bd99491a310482f85072602bae",
+    "git_blob_sha": "03b6c4dff96da7ff65312ab395eec3f902ab8db2"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/04_第3讲_向量组.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第3讲 向量组",
+    "source_pdf_pages": [
+      89,
+      120
+    ],
+    "printed_pages": [
+      82,
+      113
+    ],
+    "pages": 32,
+    "unchanged_original": false,
+    "bytes": 18653393,
+    "sha256": "4f26d0d1de3b1b6f1022901f9a9ac251b5aa7cc02b9069bfeddd7a4b51f2081d",
+    "git_blob_sha": "e9678902fd2ccc9650e563cdbb3c979cb3972916"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/05_第4讲_线性方程组.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第4讲 线性方程组",
+    "source_pdf_pages": [
+      121,
+      145
+    ],
+    "printed_pages": [
+      114,
+      138
+    ],
+    "pages": 25,
+    "unchanged_original": false,
+    "bytes": 13287117,
+    "sha256": "9e4c913ac367d3e219f2dfe6ee5421539cf359ce34dbdc41d017b0f8e79a6b57",
+    "git_blob_sha": "e83676aa72006c2b8df7101bf95dafa39c5ecae4"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/06_第5讲_特征值与特征向量.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第5讲 特征值与特征向量",
+    "source_pdf_pages": [
+      146,
+      184
+    ],
+    "printed_pages": [
+      139,
+      177
+    ],
+    "pages": 39,
+    "unchanged_original": false,
+    "bytes": 27317298,
+    "sha256": "a0d96b810434eeaa3ca1bfc86cebdc7dea18ccda4ad962141675081383ca9d61",
+    "git_blob_sha": "e51ea2436c670ec13a70e7ac6f81a3ee896e650c"
+  },
+  {
+    "path": "27张宇基础30讲（线代）/07_第6讲_二次型.pdf",
+    "source": "27张宇基础30讲线代.pdf",
+    "title": "第6讲 二次型",
+    "source_pdf_pages": [
+      185,
+      213
+    ],
+    "printed_pages": [
+      178,
+      206
+    ],
+    "pages": 29,
+    "unchanged_original": false,
+    "bytes": 14779818,
+    "sha256": "24853f318fa6a7b96908043055b20012fb6e9b854bbd21417adbfce27e72625a",
+    "git_blob_sha": "52a1965fcf383f9bfbac70aefa566bd38638dbdb"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/00_封面前言目录.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "封面、前言、概率综述与目录",
+    "source_pdf_pages": [
+      1,
+      9
+    ],
+    "printed_pages": null,
+    "pages": 9,
+    "unchanged_original": false,
+    "bytes": 5698895,
+    "sha256": "33970a582b21666586c9eb66800778bf86e94fff5d96bc71845aa09bab3f3a30",
+    "git_blob_sha": "9686b51f2c03ba7d025f7931f5e8d139da0bb1cf"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/01_随机事件与概率.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "第1讲 随机事件与概率",
+    "source_pdf_pages": [
+      10,
+      41
+    ],
+    "printed_pages": [
+      1,
+      32
+    ],
+    "pages": 32,
+    "unchanged_original": false,
+    "bytes": 24432473,
+    "sha256": "71621c2e87936007b2fb107818d5cc92d2b15aae02ae7f0d854ea513127ff96a",
+    "git_blob_sha": "14223552ef1f754d06c375d649bf550d637814e7"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/02_一维随机变量及其分布.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "第2讲 一维随机变量及其分布",
+    "source_pdf_pages": [
+      42,
+      70
+    ],
+    "printed_pages": [
+      33,
+      61
+    ],
+    "pages": 29,
+    "unchanged_original": false,
+    "bytes": 13468385,
+    "sha256": "941b9794b2a48d78e00ed9258d98c71d6ed37d84bb80e78b10985c20f0bffc98",
+    "git_blob_sha": "dac65c2a35a0aea70ce3c85326febed0cbfa0e6c"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/03_多维随机变量及其分布.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "第3讲 多维随机变量及其分布",
+    "source_pdf_pages": [
+      71,
+      111
+    ],
+    "printed_pages": [
+      62,
+      102
+    ],
+    "pages": 41,
+    "unchanged_original": false,
+    "bytes": 23089967,
+    "sha256": "5b4369591ec83f7504be9d5f9dc7d3e56ddfa137112737be1b9bdf41034106c3",
+    "git_blob_sha": "fffbbf5caf2cbedfe188bbff61a2ae6822d826d6"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/04_随机变量的数字特征.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "第4讲 随机变量的数字特征",
+    "source_pdf_pages": [
+      112,
+      133
+    ],
+    "printed_pages": [
+      103,
+      124
+    ],
+    "pages": 22,
+    "unchanged_original": false,
+    "bytes": 9163242,
+    "sha256": "50c9927a7bf69d35a34633886962d95fe3ec4acc3273ad88c3378adc4282ca03",
+    "git_blob_sha": "bbd7e29a87ede917b3b7dc74f971bff076f84abe"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/05_大数定律与中心极限定理.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "第5讲 大数定律与中心极限定理",
+    "source_pdf_pages": [
+      134,
+      141
+    ],
+    "printed_pages": [
+      125,
+      132
+    ],
+    "pages": 8,
+    "unchanged_original": false,
+    "bytes": 5172712,
+    "sha256": "8f183c752e4436107f1cd0b72246aad168dc467d0d12e89b5c207ec99f3a080b",
+    "git_blob_sha": "e05e7af9b5bef71b3cd8ac9353705f1cfa6f80d3"
+  },
+  {
+    "path": "27张宇基础30讲（概率）/06_数理统计.pdf",
+    "source": "27张宇基础30讲概率.pdf",
+    "title": "第6讲 数理统计",
+    "source_pdf_pages": [
+      142,
+      173
+    ],
+    "printed_pages": [
+      133,
+      163
+    ],
+    "pages": 32,
+    "unchanged_original": false,
+    "bytes": 15662253,
+    "sha256": "063eec41cf563f21e85810ec05fcad5cc71681853f34e6f1bc00770b0b2c3f61",
+    "git_blob_sha": "b751122e9647a009df5f3f68ec7459dddccec262"
   }
 ]

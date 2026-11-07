@@ -19,5 +19,26 @@
     "bytes": 370341773,
     "sha256": "1b17f5628e03dc24bdc870a8f8155b07d9e18cba7d15cbc983cf0b08375c9a37",
     "git_blob_sha": "3ca1850402f22fc3f89f9aa5baefec36b06277fc"
+  },
+  {
+    "filename": "27张宇《核心计算通关讲义》.pdf",
+    "page_count": 87,
+    "bytes": 26915483,
+    "sha256": "2abf2ee308d6fb843597941e37c0a118500a95b7e6966561ab8f57a80008bba8",
+    "git_blob_sha": "f2ec8be036ada29eb8f0ea53d3a2141690fca503"
+  },
+  {
+    "filename": "27张宇基础30讲线代.pdf",
+    "page_count": 213,
+    "bytes": 123358942,
+    "sha256": "b58f57d5d131573da409b289be23e6421110d3c74aa5578651237e4740393283",
+    "git_blob_sha": "4a017d478bb7aa3a52596bf1d169cb7164d9caa9"
+  },
+  {
+    "filename": "27张宇基础30讲概率.pdf",
+    "page_count": 173,
+    "bytes": 95376392,
+    "sha256": "5cc04f559658af8c17bb46116bd371778a6001cc0b289f843887d20da72034ca",
+    "git_blob_sha": "5809bfa2d149e024fefeb315d073daca68db11f7"
   }
 ]
